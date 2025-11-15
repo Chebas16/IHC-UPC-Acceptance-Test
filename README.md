@@ -6,6 +6,7 @@
 
 ## 📋 Descripción
 
+
 Repositorio de **pruebas de aceptación** para el proyecto de Interacción Humano-Computadora (IHC) de la Universidad Peruana de Ciencias Aplicadas (UPC). 
 
 Este proyecto contiene **40 User Stories** documentadas en formato **Gherkin**, cubriendo escenarios de:
